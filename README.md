@@ -1,7 +1,7 @@
 # changbin jeong
 
 
- Link
+ Link this is my github 
 Click [Here](https://github.com/jungchangbin/AI-control.git)
 
 

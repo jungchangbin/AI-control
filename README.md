@@ -1,6 +1,6 @@
 # Hello! THis is changbin jeong github.com
 >  Hello my name is changbin jeong 
-My hobby:
+I will introduce my hobbies
 * Play Game
 * Watching Sports
 * Watching a movie

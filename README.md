@@ -4,11 +4,11 @@ I was born in changwon and have been living here for 23 years Like everyone else
 
 
 
-### What i did for my dreams
-* Certification exam preparation 
-* onstant practice practice
+### 꿈을위해 준비한것들
+* 자격증 시험준비(공부) 
+* 꾸준히 실습연습및 부족한부분연습
 
-### What I Studied my university
+### 내가 대학에서 공부한것들
 |V  I   M|P y t h o n|
 |--|--|
 |![VIMexample](http://kldp.org/files/vi-vim-cheat-sheet-ko.png) source:https://kldp.org/|![Python example](https://intellipaat.com/mediaFiles/2018/11/Python-Basics-Cheat-Sheet-1-1.png) source:https://intellipaat.com/mediaFiles/2018/11/Python-Basics-Cheat-Sheet-1-1.png|

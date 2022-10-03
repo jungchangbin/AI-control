@@ -5,8 +5,8 @@ I was born in changwon and have been living here for 23 years Like everyone else
 
 
 ### 내가 꿈을 위해 준비하고있는것
-* Certification exam preparation 
-* Constant practice practice
+* 자격증 시험준비(공부)
+* 꾸준한 실습및 부족한부분 연습
 
 ### What I Studied my university
 |V  I   M|P y t h o n|

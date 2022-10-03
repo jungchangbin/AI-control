@@ -8,12 +8,12 @@ I was born in changwon and have been living here for 23 years Like everyone else
 * 자격증 시험준비(공부)
 * 꾸준한 실습및 부족한부분 연습
 
-### What I Studied my university
+### 내가 대학교에서 공부하는것
 |V  I   M|P y t h o n|
 |--|--|
 |![VIMexample](http://kldp.org/files/vi-vim-cheat-sheet-ko.png) source:https://kldp.org/|![Python example](https://intellipaat.com/mediaFiles/2018/11/Python-Basics-Cheat-Sheet-1-1.png) source:https://intellipaat.com/mediaFiles/2018/11/Python-Basics-Cheat-Sheet-1-1.png|
 
-### My hobby
-* Play Game
-* Watching Sports
-* Watching a movie
+### 내 취미
+* 게임하기
+* 스포츠 관람
+* 영화보기

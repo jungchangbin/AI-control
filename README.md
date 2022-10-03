@@ -4,7 +4,7 @@ I was born in changwon and have been living here for 23 years Like everyone else
 
 
 
-### What i did for my dreams
+### 내가 꿈을 위해 준비하고있는것
 * Certification exam preparation 
 * Constant practice practice
 

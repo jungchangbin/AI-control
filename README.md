@@ -6,7 +6,7 @@ I was born in changwon and have been living here for 23 years Like everyone else
 
 ### What i did for my dreams
 * Certification exam preparation 
-* onstant practice practice
+* Constant practice practice
 
 ### What I Studied my university
 |V  I   M|P y t h o n|

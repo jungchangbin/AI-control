@@ -1,6 +1,6 @@
 # Hello! THis is changbin jeong github.com 
->  Hello my name is changbin jeong   
-I was born in changwon and have been living here for 23 years Like everyone else, I graduated from a general school and entered Changwon Polytechnic University with the dream of getting a job with the Department of Mechanical Let me introduce myself!
+>  안녕하세요  제 이름은 정창빈 이라고합니다
+저는 창원에서태어나 23년 동안 창원에서 생활하고 일반학교를 나와서 기계기술자라는 꿈을 가지고 창원폴리텍대학에 입학하게되었습니다 지금부터 저를 간단하게 소개해보도록 하겠습니다.
 
 
 

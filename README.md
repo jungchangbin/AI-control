@@ -17,5 +17,3 @@ I was born in changwon and have been living here for 23 years Like everyone else
 * Play Game
 * Watching Sports
 * Watching a movie
-
-###
